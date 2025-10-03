@@ -1,4 +1,7 @@
-# hodangan_ThaRoVi
-Hồ Đăng An
-MSSV: 25119051
-gọi tôi là Eating vì eating là đang ăn , đang ăn là Đăng An nhé!
+n = int(input("Nhập một số: "))
+if n % 2 == 0:
+    print(n, "là số chẵn")
+else:
+    print(n, "là số lẻ")
+#Hồ Đăng An 
+#25119051
